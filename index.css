@@ -1,0 +1,11 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: blue;
+  text-shadow: 2px 2px;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-image: url("img3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
